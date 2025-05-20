@@ -41,6 +41,12 @@ let allMusic = [
     img: "b7",
     src: "b7"
   },
+  {
+    name: "Tình yêu ai bán mà mua",
+    artist: "Thanh hưng",
+    img: "b8",
+    src: "b8"
+  },
  
 
 ];
