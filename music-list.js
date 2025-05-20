@@ -47,6 +47,12 @@ let allMusic = [
     img: "b8",
     src: "b8"
   },
+    {
+    name: "Cành phi yến trong mưa",
+    artist: "Hà My",
+    img: "b9",
+    src: "b9"
+  },
  
 
 ];
